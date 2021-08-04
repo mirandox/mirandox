@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Miranda! <img src="https://komarev.com/ghpvc/?username=mirandox&color=green" alt="mirandox"/>
+### Olá! Eu sou o Felipe Miranda! 
 
 - 🔭 Hoje trabalho com salesforce
 - 🌱 Estudando JavaScript e Apex
@@ -22,10 +22,11 @@
   <img align="center" alt="Mirandox-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Mirandox-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
   <img align="right" alt="Mirandox-gif" src="https://cdn.discordapp.com/attachments/318430024376123392/872298428686823484/ezgif-2-316bc5fb5f67.gif">
+  <img align="right" src="https://komarev.com/ghpvc/?username=mirandox&color=green" alt="mirandox"/>
 </div>
  
 ##
-  
+
 <div>
   <a href="https://instagram.com/_mirandox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:feguido1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
