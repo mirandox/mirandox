@@ -21,7 +21,7 @@
   <img align="center" alt="Mirandox-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Mirandox-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Mirandox-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
-  <img align="right" alt="Mirandox-gif" src="https://cdn.discordapp.com/attachments/318430024376123392/872298428686823484/ezgif-2-316bc5fb5f67.gif">
+  <img align="right" alt="Mirandox-gif" src="https://media.giphy.com/media/8R18FnLebbKGDEcHy0/giphy.gif">
   <img align="right" src="https://komarev.com/ghpvc/?username=mirandox&color=green" alt="mirandox"/>
 </div>
  
