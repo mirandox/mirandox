@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Miranda! 
 
 - 🔭 Hoje trabalho como Desenvolvedor Salesforce
-- 🌱 Estudando Apex, além de JS como LWC, LWR, NextJS e ReactJS
+- 🌱 Estudando Apex, além de LWC, LWR, NextJS e ReactJS
 - 📫 Contate-me no email: felipemsva@gmail.com
 
 ##
