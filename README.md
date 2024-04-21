@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Felipe Miranda! 
 
-- 🔭 Hoje trabalho com salesforce
-- 🌱 Estudando JavaScript e Apex
-- 📫 Contate-me no email: feguido1@gmail.com
+- 🔭 Hoje trabalho como Desenvolvedor Salesforce
+- 🌱 Estudando Apex, além de JS como LWC, LWR, NextJS e ReactJS
+- 📫 Contate-me no email: felipemsva@gmail.com
 
 ##
 
